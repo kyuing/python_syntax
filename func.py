@@ -21,3 +21,4 @@ def average():
 
 # we then call the function
 average()
+print(average)
